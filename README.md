@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Mohamad-Ahmed
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning TypeScrpt
+- 🌱 I’m currently learning Next.JS
 - ✅ I have learnt HTML
+- ✅ I have learnt TypeScript
+- ✅ I have learnt JavaScript
